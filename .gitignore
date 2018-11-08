@@ -1,0 +1,6 @@
+*.un~
+.DS_Store
+bower_components
+/npm-debug.log
+/node_modules
+/buildDev
